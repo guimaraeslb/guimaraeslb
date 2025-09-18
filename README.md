@@ -1,5 +1,5 @@
 📚 Graduando em Ciência da Computação pela UFABC; <br>
-💻 Bolsista de Iniciação Científica em Algoritmos e Otimização Combinatória;
+💻 Bolsista de Iniciação Científica em Algoritmos e Otimização Combinatória;<br>
 👨🏻‍💻 Técnico em Desenvolvimento de Sistemas; <br>
 🚩 São Paulo, SP
 
